@@ -1,2 +1,2 @@
 # api_docs_test_2
-API docs using Splunk
+API docs using Swagger
